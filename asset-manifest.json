@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reklam-app/static/css/main.981f7211.chunk.css",
+    "main.js": "/reklam-app/static/js/main.e53a128d.chunk.js",
+    "main.js.map": "/reklam-app/static/js/main.e53a128d.chunk.js.map",
+    "runtime-main.js": "/reklam-app/static/js/runtime-main.ddebd7c2.js",
+    "runtime-main.js.map": "/reklam-app/static/js/runtime-main.ddebd7c2.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/reklam-app/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.d3830a02.chunk.js": "/reklam-app/static/js/2.d3830a02.chunk.js",
+    "static/js/2.d3830a02.chunk.js.map": "/reklam-app/static/js/2.d3830a02.chunk.js.map",
+    "index.html": "/reklam-app/index.html",
+    "precache-manifest.b4ed2ff2bac5208930396ef82a6b7dd3.js": "/reklam-app/precache-manifest.b4ed2ff2bac5208930396ef82a6b7dd3.js",
+    "service-worker.js": "/reklam-app/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/reklam-app/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/reklam-app/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.d3830a02.chunk.js.LICENSE": "/reklam-app/static/js/2.d3830a02.chunk.js.LICENSE",
+    "static/media/persik.png": "/reklam-app/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddebd7c2.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.d3830a02.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.e53a128d.chunk.js"
+  ]
+}
